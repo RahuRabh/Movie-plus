@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Gif
 
-https://user-images.githubusercontent.com/63224718/231109408-7b43c476-28e8-4f45-bbb2-4ce8c2ba2aa0.mp4
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/63224718/231109866-91b93a2f-06ba-4ad9-a912-ad8b35595b51.gif)
 
 
 ## Available Scripts
